@@ -1,0 +1,4 @@
+flask
+flask-sqlalchemy==2.4.4
+git+git://github.com/ravenprotocol/ravcom.git
+git+git://github.com/ravenprotocol/ravop.git
